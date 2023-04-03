@@ -1,0 +1,5 @@
+## To initialize virtual env
+source env/bin/activate
+
+## Freeze requirements
+pip freeze > requirements.txt
